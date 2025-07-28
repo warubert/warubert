@@ -1,3 +1,6 @@
+<img src="https://tryhackme-badges.s3.amazonaws.com/Fumacento.png" alt="Your Image Badge"/>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=warubert&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=warubert&theme=dark&hide_border=false)<br/>
